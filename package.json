@@ -1,0 +1,21 @@
+{
+    "name": "minions",
+    "displayName": "Minions",
+    "description": "Tema inspirado nos minions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ElyasSantana",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ElyasSantana-color-theme.json"
+            }
+        ]
+    }
+}
